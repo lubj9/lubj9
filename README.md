@@ -63,23 +63,6 @@ Interesse em transformar dados em informação útil para tomada de decisão e c
 
 ---
 
-##  GitHub Analytics
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=github_dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=github_dark"/>
-</p>
-
----
-
-##  Atividade
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=github-dark"/>
-</p>
-
----
-
 ##  Contato
 
 - 📧 Email: lucasbaracatprofissional@gmail.com 
