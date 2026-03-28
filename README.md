@@ -11,7 +11,7 @@ Data Analyst | Data Engineering | SQL | Python | Java
 
 ---
 
-## 👨‍💻 Sobre Mim
+##  Sobre Mim
 
 Estudante de Sistemas de Informação com foco em análise e engenharia de dados.  
 Experiência com modelagem de dados, SQL e desenvolvimento de aplicações com integração a banco de dados.  
@@ -22,7 +22,7 @@ Interesse em transformar dados em informação útil para tomada de decisão e c
 
 ##  Tech Stack
 
-### 📊 Data
+###  Data
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=database&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
@@ -83,7 +83,7 @@ Interesse em transformar dados em informação útil para tomada de decisão e c
 ##  Contato
 
 - 📧 Email: lucasbaracatprofissional@gmail.com 
-- 💼 LinkedIn: [https://linkedin.com/in/seu-link ](https://www.linkedin.com/in/lucasbaracat9/) 
+- 💼 LinkedIn: [https://linkedin.com/in/lucasbaracat9]
 
 ---
 
