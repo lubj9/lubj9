@@ -6,6 +6,7 @@ Data Analyst | Data Engineering | SQL | Python | Java
 
 <p align="center">
  Sistemas de Informação <br>
+ Universidade Presbiteriana Mackenzie <br>
  São Paulo, Brasil <br>
 </p>
 
