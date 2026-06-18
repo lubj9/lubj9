@@ -37,7 +37,7 @@ Estudante de Sistemas de Informação no 4º semestre da Universidade Presbiteri
 ## Projetos
 
 ### Análise de Dados de Vendas com Python
-[Repositório](https://github.com/lubj9/ProjetoVendasEcommerce)
+[Repositório](https://github.com/lubj9/ProjetoVendasEcommercePython)
 
 Simulação de análise de dados de vendas para suporte à tomada de decisões estratégicas, utilizando Python, pandas e matplotlib. O projeto contempla cálculo de faturamento total, identificação das categorias com maior volume de vendas, análise dos produtos mais rentáveis, avaliação de desempenho por região e estudo da evolução das vendas ao longo do tempo, gerando insights relevantes sobre o desempenho do negócio.
 
