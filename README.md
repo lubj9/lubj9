@@ -1,14 +1,14 @@
 # Lucas Zeferino Baracat
 
-**Estudante de Sistemas de Informação | TI e Dados**
+**Information Systems Student | Data & Back-end**
 
-Estudante de Sistemas de Informação no 4º semestre da Universidade Presbiteriana Mackenzie, com interesse em atuar nas áreas de análise de dados, ciência de dados e desenvolvimento de sistemas. Busco oportunidades de estágio para aplicar conhecimentos em programação, banco de dados e lógica computacional em projetos que gerem valor real para o negócio.
+Information Systems student in the 4th semester at Universidade Presbiteriana Mackenzie, focused on data and development. I have built projects such as ETL pipelines scheduled via GitHub Actions, interactive dashboards in Streamlit, and REST APIs in Spring Boot with caching and asynchronous processing. Looking for an internship where I can contribute in data analysis, automation, or back-end development.
 
 ---
 
-## Habilidades Técnicas
+## Technical Skills
 
-**Linguagens de Programação**
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -17,74 +17,92 @@ Estudante de Sistemas de Informação no 4º semestre da Universidade Presbiteri
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Banco de Dados**
+**Back-end & APIs**
 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![REST](https://img.shields.io/badge/-REST-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+**Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Ferramentas e Bibliotecas**
+**Data & Visualization**
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**DevOps & Tools**
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## Projetos
+## Projects
 
-### Análise de Dados de Vendas com Python
-[Repositório](https://github.com/lubj9/ProjetoVendasEcommercePython)
+### BI Dashboard — E-commerce Sales Analysis
 
-Simulação de análise de dados de vendas para suporte à tomada de decisões estratégicas, utilizando Python, pandas e matplotlib. O projeto contempla cálculo de faturamento total, identificação das categorias com maior volume de vendas, análise dos produtos mais rentáveis, avaliação de desempenho por região e estudo da evolução das vendas ao longo do tempo, gerando insights relevantes sobre o desempenho do negócio.
+[Repository](https://github.com/lubj9/dashboard-vendas-bi-python)
 
-**Tecnologias:** Python, Pandas, Matplotlib
+Interactive dashboard for sales analysis with KPIs and dynamic visualizations, deployed on Streamlit Cloud. Features KPIs for revenue, average ticket, orders, and units sold, recalculated in real time based on multi-select filters (region, category, period). Includes four Plotly visualizations (time-series evolution, ranking by category, top 10 products, regional distribution), data caching via `@st.cache_data` to avoid rereading the dataset on each interaction, and export of filtered data to CSV.
 
----
-
-### Sistema de Gerenciamento de Dados para Plataforma de Streaming
-[Repositório](https://github.com/lubj9/ProjetoStreamingBancoDeDados)
-
-Sistema de banco de dados relacional para uma plataforma de streaming, responsável pelo gerenciamento de usuários, conteúdos, assinaturas, histórico de visualizações e avaliações. Atuação na modelagem conceitual e lógica do banco, definição de relacionamentos e implementação de consultas SQL para extração e análise de dados, aplicando conceitos de normalização, integridade referencial e otimização de consultas em um cenário inspirado em aplicações reais do mercado.
-
-**Tecnologias:** SQL, PostgreSQL, MySQL, Modelagem Entidade-Relacionamento (MER), Normalização, Git
+**Technologies:** Python, Streamlit, pandas, Plotly, NumPy
 
 ---
 
-### Projeto Netflix BST — Estrutura de Dados em Java
-[Repositório](https://github.com/lubj9/ArvoreBSTdataScience)
+### ETL Pipeline — Currency and Cryptocurrency Quotes
 
-Projeto acadêmico desenvolvido em Java para armazenar, organizar e analisar dados de títulos da Netflix utilizando a estrutura de dados Árvore Binária de Busca (BST). O sistema realiza a leitura de arquivos CSV, permite inserção e busca eficiente de registros, execução de percursos da árvore (pré-ordem, em ordem e pós-ordem) e geração de análises estatísticas sobre os dados, aplicando conceitos de Programação Orientada a Objetos, manipulação de arquivos e estruturas de dados.
+[Repository](https://github.com/lubj9/etl-cotacoes-pipeline-python)
 
-**Tecnologias:** Java, Programação Orientada a Objetos, Estruturas de Dados
+Python ETL pipeline that collects quotes via public APIs, applies quality rules, and persists to PostgreSQL. Runs automatically every 6 hours via GitHub Actions. Extracts quotes from Frankfurter (forex) and CoinGecko (crypto) with retry and exponential backoff for resilience to network failures. Applies quality transformations (deduplication, type validation, enrichment with spread and trend classification) and persists idempotently with UPSERT (`ON CONFLICT DO NOTHING`), with portability between SQLite (dev) and PostgreSQL (Supabase, prod). Serverless orchestration scheduled by cron, with log upload as an artifact on every run.
 
----
-
-## Formação Acadêmica
-
-**Universidade Presbiteriana Mackenzie**
-Bacharelado em Sistemas de Informação — Jun/2024 a Jun/2028
-
-### Cursos Complementares
-
-- **ALURA Cursos Online de Tecnologia** (2025) — Excel, SQL e PostgreSQL
-- **Bradesco** — Banco de Dados
-- **Cisco Networking Academy** — Conceitos de Redes
+**Technologies:** Python, pandas, requests, SQLAlchemy, PostgreSQL, GitHub Actions, Supabase
 
 ---
 
-## Estatísticas do GitHub
+### URL Shortener — REST API in Spring Boot
+
+[Repository](https://github.com/lubj9/url-shortener)
+
+URL shortener built in Spring Boot 3 and Java 21, with in-memory caching, Base62 encoding, and non-blocking click tracking. Base62 algorithm implemented from scratch to generate deterministic short codes from the ID, eliminating collision risk. Caffeine cache on the critical redirect path and asynchronous click tracking via `@Async` over Virtual Threads (Java 21), avoiding additional latency. Anti-XSS validation blocking dangerous schemes (`javascript:`, `data:`, `file:`), X-Forwarded-For support, and coverage by 14 automated tests (unit + integration with MockMvc).
+
+**Technologies:** Java 21, Spring Boot 3, Spring Data JPA, Caffeine, PostgreSQL/H2, JUnit 5, Mockito, Docker
+
+---
+
+## Education
+
+**Universidade Presbiteriana Mackenzie** — Bachelor's in Information Systems — Jun/2024 to Jun/2028
+
+### Additional Courses
+
+- **ALURA Online Technology Courses** (2025) — Excel, SQL and PostgreSQL
+- **Bradesco** — Databases
+- **Cisco Networking Academy** — Networking Concepts
+
+---
+
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lubj9&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lubj9&layout=compact&theme=default&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lubj9&layout=compact&theme=default&hide_border=true)
 
 ---
 
-## Contato
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbaracat9/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasbaracatprofissional@gmail.com)
