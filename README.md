@@ -2,7 +2,8 @@
 
 **Information Systems Student | Data & Back-end**
 
-Information Systems student in the 4th semester at Universidade Presbiteriana Mackenzie, focused on data and development. I have built projects such as ETL pipelines scheduled via GitHub Actions, interactive dashboards in Streamlit, and REST APIs in Spring Boot with caching and asynchronous processing. Looking for an internship where I can contribute in data analysis, automation, or back-end development.
+Information Systems student in the 4th semester at Universidade Presbiteriana Mackenzie, focused on data and development.
+Software Development, automation and Quality Assurance Intern for Diebold Nixdorf in Brazil.
 
 ---
 
